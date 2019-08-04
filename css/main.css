@@ -1,0 +1,16 @@
+.url {
+	font-size: 20px;
+	
+}
+
+.about {
+	font-size: 20px;
+	
+}
+
+.music {
+	background: url(https://go-gl.com/vm5mi);
+	width: 250px;
+	height: 253px;
+	opacity: 0.9
+}
